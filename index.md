@@ -2,44 +2,94 @@
 layout: default
 ---
 
-## About Me
+## Swapnil Hingmire (स्वप्निल हिंगमिरे)
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. PVPIT of Technology and Science, Pilani.
+I am an Assistant Professor at the [Mehta Family School of Data Science & Artificial Intelligence](https://mfsdsai.iitpkd.ac.in/), Department of Data Science, [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/).
+My research focuses on natural language processing (NLP). 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Previously, I was a postdoc in the Computer Science department at the University of Victoria, where I worked with [Neil Ernst](https://neilernst.net/)
 
-## Research Interest
+I was a scientist at TCS Research. I have also spent time at [LILY Lab](https://yale-lily.github.io/) at the Department of Computer Science, Yale University, as a TATA Visiting Scholar. 
+ 
+I completed my master's degree and PhD in [Computer Science and Engineering](https://www.cse.iitm.ac.in/) at IIT Madras, under the guidance of [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My first language/L0 is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)).
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Research Questions
 
-## Typography
+The following are some questions that drive my research.
+  1. How can we measure the quality of output produced by an NLP system?
+  2. Is it possible to quantify the quality of output?
+  3. How can we ensure that what we are measuring is truly what we want to measure?
+  4. What are the axioms of an evaluation metric? How can we assess their ecological validity?
+  5. Which heuristics and biases do we use when interpreting a text? How can we model them computationally?
+  6. What makes an interpretation subjective or objective?
+  7. How can we evaluate interpretability? What are the factors that influence interpretation
+  8. How can we develop a user model of a linguistic phenomenon (e.g., processing metaphors)? What kind of linguistic knowledge will be necessary for these user and computational models? Will such knowledge reduce the amount of training data needed? (especially in low-resource settings)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Selected Publications
 
-Here is a table
+[Objectifying the Subjective: Cognitive Biases in Topic Interpretations](https://www.arxiv.org/abs/2507.19117)<br> 
+Swapnil Hingmire, Ze Shi Li, Shiyu (Vivienne)Zeng, Ahmed Musa Awon, Luiz Franciscatto Guerra, Neil Ernst<br>
+TACL 2025 (accepted for publication)
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+[R-VGAE: Relational-variational Graph Autoencoder for Unsupervised Prerequisite Chain Learning](https://doi.org/10.18653/v1/2020.coling-main.99)<br>
+Irene Li, Alexander R. Fabbri, Swapnil Hingmire, Dragomir R. Radev<br>
+COLING 2020
 
-Here is a horizontal rule
+[Identification of Alias Links among Participants in Narratives](https://aclanthology.org/P18-2011/)<br>
+Sangameshwar Patil*, Sachin Pawar*, Swapnil Hingmire*, Girish Keshav Palshikar, Vasudeva Varma, Pushpak Bhattacharyya<br>
+ACL 2018 (* Equal contribution)
 
----
+[Measuring Topic Coherence through Optimal Word Buckets](https://doi.org/10.18653/v1/e17-2070)<br>
+Nitin Ramrakhiyani, Sachin Pawar, Swapnil Hingmire, Girish Keshav Palshikar<br>
+EACL 2017
 
-Here is a blockquote
+[WikiLDA: Towards More Effective Knowledge Acquisition in Topic Models using Wikipedia](https://doi.org/10.1145/3148011.3154465)<br>
+Swapnil Hingmire, Sutanu Chakraborti, Girish Keshav Palshikar, Abhay Sodani<br>
+K-CAP 2017
 
-> To a great mind, nothing is little
+[Sprinkling Topics for Weakly Supervised Text Classification](https://doi.org/10.3115/v1/p14-2010)<br>
+Swapnil Hingmire, Sutanu Chakraborti<br>
+ACL 2014
 
-## References
+[Topic labeled text classification: a weakly supervised approach](https://doi.org/10.1145/2600428.2609565)<br>
+Swapnil Hingmire, Sutanu Chakraborti<br>
+SIGIR 2014
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+[Document classification by topic labeling](https://doi.org/10.1145/2484028.2484140)<br>
+Swapnil Hingmire, Sandeep Chougule, Girish K. Palshikar, Sutanu Chakraborti<br> 
+SIGIR 2013
+
+
+[Full list of publications](https://dblp.org/pid/132/7615.html)
+
+## Teaching
+
+AI Ethics (jointly with Garima Shakya): Jan-May 2025
+
+Machine Learning: Aug-Dec 2025, Aug-Dec 2024
+
+Natural Language Processing: Jan-May 2025, Jan-May 2022
+
+## Research Group
+  Current<br>
+		MS: G. L. John Salvin<br>
+		PhD: Gollapalli Babblu<br>		
+		MTech: Abigairl Nyasha Chigwededza, Budde Shrikant Tryambak, Sudhin S<br>
+	
+ Past<br>
+		MTech: Ontiwell Khongthaw
+
+## Contact
+Swapnil Hingmire
+
+D03-First Floor, Dr. A. P. J. Abdul Kalam Block,<br>
+Indian Institute of Technology Palakkad,<br>
+Sahyadri Campus, Kanjikode West,<br>
+Palakkad—678623, Kerala, India.
+
+swapnilh@iitpkd.ac.in
