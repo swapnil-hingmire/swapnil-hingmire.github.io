@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Swapnil Hingmire (स्वप्निल हिंगमिरे)
-
 <img class="profile-picture" src="sherlock.jpg">
 
 I am an Assistant Professor at the [Mehta Family School of Data Science & Artificial Intelligence](https://mfsdsai.iitpkd.ac.in/), Department of Data Science, [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/).
