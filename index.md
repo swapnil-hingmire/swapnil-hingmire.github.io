@@ -9,7 +9,7 @@ I am an Assistant Professor at the [Mehta Family School of Data Science & Artifi
 My research focuses on natural language processing (NLP). 
 
 Previously, I was a postdoc in the Computer Science department at the University of Victoria, where I worked with [Neil Ernst](https://neilernst.net/).
-I was a scientist at TCS Research. I have also spent time at [LILY Lab](https://yale-lily.github.io/) at the Department of Computer Science, Yale University, as a TATA Visiting Scholar. 
+I was a scientist at [TCS Research](https://www.tcs.com/what-we-do/research). I have also spent time at [LILY Lab](https://yale-lily.github.io/) at the Department of Computer Science, Yale University, as a TATA Visiting Scholar. 
  
 I completed my master's degree and PhD in [Computer Science and Engineering](https://www.cse.iitm.ac.in/) at IIT Madras, under the guidance of [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
