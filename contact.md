@@ -1,6 +1,6 @@
 ---
 layout: default
-is_contact: true
+is_contact: false
 ---
 
 * Email: [swapnilh@iitpkd.ac.in](mailto:swapnilh@iitpkd.ac.in)
@@ -15,5 +15,4 @@ D03-First Floor, Dr. A. P. J. Abdul Kalam Block,<br>
 Indian Institute of Technology Palakkad,<br>
 Sahyadri Campus, Kanjikode West,<br>
 Palakkad—678623, Kerala, India.
----
 
