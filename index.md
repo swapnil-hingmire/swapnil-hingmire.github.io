@@ -84,12 +84,3 @@ Natural Language Processing: Jan-May 2025, Jan-May 2022
  Past<br>
 		MTech: Ontiwell Khongthaw
 
-## Contact
-Swapnil Hingmire
-
-D03-First Floor, Dr. A. P. J. Abdul Kalam Block,<br>
-Indian Institute of Technology Palakkad,<br>
-Sahyadri Campus, Kanjikode West,<br>
-Palakkad—678623, Kerala, India.
-
-swapnilh@iitpkd.ac.in
