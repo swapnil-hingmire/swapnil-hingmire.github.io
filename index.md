@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
 I am an Assistant Professor at the [Mehta Family School of Data Science & Artificial Intelligence](https://mfsdsai.iitpkd.ac.in/), Department of Data Science, [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/).
 My research focuses on natural language processing (NLP). 
