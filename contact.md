@@ -3,24 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [swapnilh@iitpkd.ac.in](mailto:swapnilh@iitpkd.ac.in)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91 491 209 1208](tel:+91-4912091208)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
+D03-First Floor, Dr. A. P. J. Abdul Kalam Block,<br>
+Indian Institute of Technology Palakkad,<br>
+Sahyadri Campus, Kanjikode West,<br>
+Palakkad—678623, Kerala, India.
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
