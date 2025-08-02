@@ -41,8 +41,8 @@ Irene Li, Alexander R. Fabbri, Swapnil Hingmire, Dragomir R. Radev<br>
 COLING 2020
 
 [Identification of Alias Links among Participants in Narratives](https://aclanthology.org/P18-2011/)<br>
-Sangameshwar Patil*, Sachin Pawar*, Swapnil Hingmire*, Girish Keshav Palshikar, Vasudeva Varma, Pushpak Bhattacharyya<br>
-ACL 2018 (* Equal contribution)
+Sangameshwar Patil<sup>+</sup>, Sachin Pawar<sup>+</sup>, Swapnil Hingmire<sup>+</sup>, Girish Keshav Palshikar, Vasudeva Varma, Pushpak Bhattacharyya<br>
+ACL 2018 (<sup>+</sup> Equal contribution)
 
 [Measuring Topic Coherence through Optimal Word Buckets](https://doi.org/10.18653/v1/e17-2070)<br>
 Nitin Ramrakhiyani, Sachin Pawar, Swapnil Hingmire, Girish Keshav Palshikar<br>
