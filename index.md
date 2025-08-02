@@ -5,28 +5,27 @@ layout: default
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
 I am an Assistant Professor at the [Mehta Family School of Data Science & Artificial Intelligence](https://mfsdsai.iitpkd.ac.in/), Department of Data Science, [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/).
+
 My research focuses on natural language processing (NLP). 
 
-Previously, I was a postdoc in the Computer Science department at the University of Victoria, where I worked with [Neil Ernst](https://neilernst.net/)
-
+Previously, I was a postdoc in the Computer Science department at the University of Victoria, where I worked with [Neil Ernst](https://neilernst.net/).
 I was a scientist at TCS Research. I have also spent time at [LILY Lab](https://yale-lily.github.io/) at the Department of Computer Science, Yale University, as a TATA Visiting Scholar. 
  
 I completed my master's degree and PhD in [Computer Science and Engineering](https://www.cse.iitm.ac.in/) at IIT Madras, under the guidance of [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
-My first language/L0 is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)).
+My first language (L1) is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)).
 
 
 ## Research Questions
 
 The following are some questions that drive my research.
   1. How can we measure the quality of output produced by an NLP system?
-  2. Is it possible to quantify the quality of output?
-  3. How can we ensure that what we are measuring is truly what we want to measure?
-  4. What are the axioms of an evaluation metric? How can we assess their ecological validity?
-  5. Which heuristics and biases do we use when interpreting a text? How can we model them computationally?
-  6. What makes an interpretation subjective or objective?
-  7. How can we evaluate interpretability? What are the factors that influence interpretation
-  8. How can we develop a user model of a linguistic phenomenon (e.g., processing metaphors)? What kind of linguistic knowledge will be necessary for these user and computational models? Will such knowledge reduce the amount of training data needed? (especially in low-resource settings)
+  2. How can we ensure that what we are measuring is truly what we want to measure?
+  3. What are the axioms of an evaluation metric? How can we assess their ecological validity?
+  4. Which heuristics and biases do we use when interpreting a text? How can we model them computationally?
+  5. What makes an interpretation subjective or objective?
+  6. How can we evaluate interpretability? What are the factors that influence interpretation?
+  7. How can we develop a user model of a linguistic phenomenon (e.g., processing metaphors)? What kind of linguistic knowledge will be necessary for these user and computational models? Will such knowledge reduce the amount of training data needed? (especially in low-resource settings)
 
 ## Selected Publications
 
@@ -79,6 +78,6 @@ Natural Language Processing: Jan-May 2025, Jan-May 2022
 		PhD: Gollapalli Babblu<br>		
 		MTech: Abigairl Nyasha Chigwededza, Budde Shrikant Tryambak, Sudhin S<br>
 	
- Past<br>
+   Past<br>
 		MTech: Ontiwell Khongthaw
 
