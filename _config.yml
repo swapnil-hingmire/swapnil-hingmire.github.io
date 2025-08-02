@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://maria-antoniak.github.io/"
-footer_text: "Template Reference maria antoniak"
+footer_text: "Template by Maria Antoniak"
 
 sass:
     style: compressed
