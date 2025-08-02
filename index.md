@@ -13,7 +13,7 @@ I was a scientist at TCS Research. I have also spent time at [LILY Lab](https://
  
 I completed my master's degree and PhD in [Computer Science and Engineering](https://www.cse.iitm.ac.in/) at IIT Madras, under the guidance of [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
-My first language (L1) is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)).
+My first language (L1) is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)). In [Devanagari](https://en.wikipedia.org/wiki/Devanagari), my name is written as स्वप्निल हिंगमिरे.
 
 
 ## Research Questions
@@ -53,11 +53,11 @@ K-CAP 2017
 Swapnil Hingmire, Sutanu Chakraborti<br>
 ACL 2014
 
-[Topic labeled text classification: a weakly supervised approach](https://doi.org/10.1145/2600428.2609565)<br>
+[Topic Labeled Text Classification: a Weakly Supervised Approach](https://doi.org/10.1145/2600428.2609565)<br>
 Swapnil Hingmire, Sutanu Chakraborti<br>
 SIGIR 2014
 
-[Document classification by topic labeling](https://doi.org/10.1145/2484028.2484140)<br>
+[Document Classification by Topic Labeling](https://doi.org/10.1145/2484028.2484140)<br>
 Swapnil Hingmire, Sandeep Chougule, Girish K. Palshikar, Sutanu Chakraborti<br> 
 SIGIR 2013
 
