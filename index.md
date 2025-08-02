@@ -13,7 +13,7 @@ I was a scientist at [TCS Research](https://www.tcs.com/what-we-do/research). I 
  
 I completed my master's degree and PhD in [Computer Science and Engineering](https://www.cse.iitm.ac.in/) at IIT Madras, under the guidance of [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
-My first language (L1) is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)). In [Devanagari](https://en.wikipedia.org/wiki/Devanagari), my name is written as स्वप्निल हिंगमिरे.
+My first language (L1) is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)). [Devanagari](https://en.wikipedia.org/wiki/Devanagari) script is used for writing Marathi texts. In Devanagari, my name is written as स्वप्निल हिंगमिरे.
 
 
 ## Research Questions
