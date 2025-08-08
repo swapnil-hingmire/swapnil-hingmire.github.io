@@ -26,6 +26,7 @@ The following are some questions that drive my research.
   5. What makes an interpretation subjective or objective?
   6. How can we evaluate interpretability? What are the factors that influence interpretation?
   7. How can we develop a user model of a linguistic phenomenon (e.g., processing metaphors)? What kind of linguistic knowledge will be necessary for these user and computational models? Will such knowledge reduce the amount of training data needed? (especially in low-resource settings)
+  8. To assess the intelligence of an AI system, how can one develop hypotheses that are testable in terms of [computation, algorithms, and physical implementation](https://cocosci.princeton.edu/papers/krafftCogsci.pdf)? How can one ensure that these hypotheses are ecologically valid?
 
 ## Selected Publications
 
