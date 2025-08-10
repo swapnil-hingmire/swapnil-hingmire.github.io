@@ -4,14 +4,14 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-I am an Assistant Professor at the [Mehta Family School of Data Science & Artificial Intelligence](https://mfsdsai.iitpkd.ac.in/), Department of Data Science, [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/).
+I am an Assistant Professor at the Department of Data Science, [Mehta Family School of Data Science & Artificial Intelligence](https://mfsdsai.iitpkd.ac.in/), [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/).
 
 My research focuses on natural language processing (NLP). 
 
 Previously, I was a postdoc in the Computer Science department at the University of Victoria, where I worked with [Neil Ernst](https://neilernst.net/).
 I was a scientist at [TCS Research](https://www.tcs.com/what-we-do/research). I have also spent time at [LILY Lab](https://yale-lily.github.io/) at the Department of Computer Science, Yale University, as a TATA Visiting Scholar. 
  
-I completed my master's degree and PhD in [Computer Science and Engineering](https://www.cse.iitm.ac.in/) at IIT Madras, under the guidance of [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
+I completed my master's degree and PhD in Computer Science and Engineering at [IIT Madras](https://www.cse.iitm.ac.in/), under the guidance of [Sutanu Chakraborti](https://www.cse.iitm.ac.in/~sutanuc/).
 
 My first language (L1) is Marathi ([मराठी](https://en.wikipedia.org/wiki/Marathi_language)). [Devanagari](https://en.wikipedia.org/wiki/Devanagari) script is used for writing Marathi texts. In Devanagari, my name is written as स्वप्निल हिंगमिरे.
 
