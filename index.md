@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="swapnil_profile_v4.jpg">
+<!-- <img class="profile-picture" src="swapnil_profile_v3.jpg"> -->
 
 I am an Assistant Professor at the Department of Data Science, [Mehta Family School of Data Science & Artificial Intelligence](https://mfsdsai.iitpkd.ac.in/), [Indian Institute of Technology (IIT) Palakkad](https://iitpkd.ac.in/).
 
