@@ -65,20 +65,7 @@ SIGIR 2013
 
 [Full list of publications](https://dblp.org/pid/132/7615.html)
 
-## Teaching
 
-AI Ethics (jointly with Garima Shakya): Jan-May 2025
 
-Machine Learning: Aug-Dec 2025, Aug-Dec 2024
 
-Natural Language Processing: Jan-May 2025, Jan-May 2022
-
-## Research Group
-  Current<br>
-		MS: G. L. John Salvin<br>
-		PhD: Gollapalli Babblu<br>		
-		MTech: Abigairl Nyasha Chigwededza, Budde Shrikant Tryambak, Sudhin S<br>
-	
-   Past<br>
-		MTech: Ontiwell Khongthaw
 
