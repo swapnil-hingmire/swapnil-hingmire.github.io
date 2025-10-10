@@ -1,7 +1,8 @@
 title: Swapnil Hingmire
 subtitle: (स्वप्निल हिंगमिरे)
 url: "https://swapnilvh.github.io"
-baseurl: "/researcher"
+baseurl: ""
+
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,7 +19,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Courses"
    link: "Courses"
  - name: "Lab"
