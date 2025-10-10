@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "/"
  - name: "Courses"
    link: "Courses"
  - name: "Lab"
