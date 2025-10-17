@@ -62,9 +62,11 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}" style="text-decoration:none;">{{ site.title }}</a>
+            <div class="navbar-header">
+                <a id="author-name" href="{{ site.url }}{{ site.baseurl }}" style="text-decoration:none;">{{ site.title }}</a>
+            </div>
             <!-- <a id="subtitle-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.subtitle }}</a> -->
-            <ul id="navlist" class="alignable pull-right navbar-ul">
+            <ul id="navlist" class="navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
                         <li class="nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
