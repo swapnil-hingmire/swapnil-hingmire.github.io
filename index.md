@@ -30,9 +30,9 @@ The following are some questions that drive my research.
 
 ## Selected Publications
 
-[Objectifying the Subjective: Cognitive Biases in Topic Interpretations](https://www.arxiv.org/abs/2507.19117)<br> 
+[Objectifying the Subjective: Cognitive Biases in Topic Interpretations](https://doi.org/10.1162/TACL.a.50)<br> 
 Swapnil Hingmire, Ze Shi Li, Shiyu (Vivienne)Zeng, Ahmed Musa Awon, Luiz Franciscatto Guerra, Neil Ernst<br>
-TACL 2025 (accepted for publication)
+TACL 2025 
 
 [R-VGAE: Relational-variational Graph Autoencoder for Unsupervised Prerequisite Chain Learning](https://doi.org/10.18653/v1/2020.coling-main.99)<br>
 Irene Li, Alexander R. Fabbri, Swapnil Hingmire, Dragomir R. Radev<br>
