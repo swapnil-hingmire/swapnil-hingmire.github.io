@@ -1,15 +1,17 @@
 ## Current Students
-		
-G. L. John Salvin
+
+Amisha R. (PhD; joint supervision with Dr. Koninika Pal)
+
+G. L. John Salvin (MS)
     
-Gollapalli Babblu
-  
-Abigairl Nyasha Chigwededza
+Gollapalli Babblu (PhD)
+
+Abigairl Nyasha Chigwededza (MTech)
  
-Budde Shrikant Tryambak
+Budde Shrikant Tryambak (MTech)
   
-Sudhin S
+Sudhin S (MTech)
 	
 ## Former Students
 	
- Ontiwell Khongthaw
+ Ontiwell Khongthaw (MTech)
