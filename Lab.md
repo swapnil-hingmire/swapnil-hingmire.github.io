@@ -4,9 +4,9 @@ Amisha R. (PhD; joint supervision with Dr. Koninika Pal)
 
 G. L. John Salvin (MS)
 
-Devadatta Pokharanakar
+Devadatta Pokharanakar (MTech)
 
-Chilaka Sri Krishna Sai
+Chilaka Sri Krishna Sai (MTech)
     
 ## Former Students
 	
