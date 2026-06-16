@@ -3,15 +3,19 @@
 Amisha R. (PhD; joint supervision with Dr. Koninika Pal)
 
 G. L. John Salvin (MS)
+
+Devadatta Pokharanakar
+
+Chilaka Sri Krishna Sai
     
-Gollapalli Babblu (PhD)
+## Former Students
+	
+Ontiwell Khongthaw (MTech)
 
 Abigairl Nyasha Chigwededza (MTech)
  
 Budde Shrikant Tryambak (MTech)
   
 Sudhin S (MTech)
-	
-## Former Students
-	
- Ontiwell Khongthaw (MTech)
+
+V.Premchand Pawar (MTech)
